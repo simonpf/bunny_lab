@@ -29,7 +29,7 @@ level_3 = Level("Great job, you saved {bunnies}.",
                 "Oh no, {bunnies} got the wrong food.")
 level_4 = Level("Great job, you saved {bunnies}.",
                 "Oh no, turns out injecting bleach isn't the best idea.")
-level_5 = Level("Great job, you and {bunnies} escape into the night.",
+level_5 = Level("Great job, you, {bunnies} escape into the night.",
                 "Oh no, you entered the wrong code and got caught.")
 
 levels = [level_1, level_2, level_3, level_4, level_5]
